@@ -3,7 +3,7 @@
 Simple demonstration of the classic Space Invaders game.
 Written using WebStarterKit configured for ES6/ES2015
 
-![SpaceInvaders](https://github.com/Kirosoft/SpaceInvaders/tree/master/docs/screenshot.PNG "Space Invaders")
+![SpaceInvaders](https://github.com/Kirosoft/SpaceInvaders/blob/master/docs/screenshot.PNG "Space Invaders")
 
 ## Requirements
 
