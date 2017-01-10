@@ -19,6 +19,13 @@ Written using WebStarterKit configured for ES6/ES2015
 > gulp serve
 ````
 
+## Getting started
+
+A good place start understanding the code is `SpaceInvaders/app/scripts/main.js`
+
+Most of the game code is in `SpaceInvaders/app/scripts/libs/` folder.
+
+
 ## Contributing
 
 Contributions, questions and comments are all welcome and encouraged. For code contributions to Web Starter Kit, please see our [Contribution guide](CONTRIBUTING.md) before submitting a pull request. [Website](https://developers.google.com/web/tools/starter-kit/) related issues should be filed on the [Web Fundamentals](https://github.com/google/WebFundamentals/issues/new) issue tracker.
